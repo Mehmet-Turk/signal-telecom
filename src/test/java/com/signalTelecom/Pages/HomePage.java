@@ -12,4 +12,6 @@ public class HomePage {
     }
     @FindBy(xpath = "(//a[.='Shop'])[1]")
     public WebElement shopText;
+    @FindBy(xpath = "(//a[.='Contact'])[1]")
+    public WebElement contactText;
 }

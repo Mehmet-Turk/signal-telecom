@@ -1,6 +1,7 @@
 package com.signalTelecom.Utilities;
 
 import com.signalTelecom.Pages.CheckOutPage;
+import com.signalTelecom.Pages.ContactPage;
 import com.signalTelecom.Pages.HomePage;
 import com.signalTelecom.Pages.ShopPage;
 
@@ -14,6 +15,14 @@ public class AllPages {
     protected HomePage homePage;
     protected ShopPage shopPage;
     protected CheckOutPage checkOutPage;
+    protected ContactPage contactPage;
+
+    public ContactPage contactPage(){
+        if (contactPage == null){
+            contactPage = new ContactPage();
+        }
+        return contactPage;
+    }
 
 
 
