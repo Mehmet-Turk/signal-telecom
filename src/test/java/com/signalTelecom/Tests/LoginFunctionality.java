@@ -13,6 +13,7 @@ public class LoginFunctionality extends TestBase {
         allPages.shopPage().addToCart.click();
         allPages.shopPage().checkOut.click();
         allPages.checkOutPage().loginText.click();
-
+        System.out.println("Mehmet");
+        System.out.println("II Mehmet");
     }
 }
