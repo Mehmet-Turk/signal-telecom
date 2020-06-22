@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bb083d9-1163-41e5-aa86-fec04ee03a44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/DistributorshipPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/US_578_Distributorship.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/CheckOutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/CheckOutPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/LoginFunctionality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/LoginFunctionality.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Utilities/AllPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Utilities/AllPages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/CheckOutPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/CheckOutPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/LoginFunctionality.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/LoginFunctionality.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Utilities/AllPages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Utilities/AllPages.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,22 +141,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592769334828" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592853962631">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592858105203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592853962631" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592853962630">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592858105203" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592858105203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592853962630" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592853962630">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592858105203" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592858105203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592853962630" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592853962631">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592858105203" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592858105203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592853962631" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592858105203" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1592768842716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
