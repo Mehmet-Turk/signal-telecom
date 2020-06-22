@@ -1,19 +1,16 @@
 package com.signalTelecom.Utilities;
 
 import com.signalTelecom.Pages.CheckOutPage;
+import com.signalTelecom.Pages.DistributorshipPage;
 import com.signalTelecom.Pages.HomePage;
 import com.signalTelecom.Pages.ShopPage;
 
 public class AllPages {
 
-//    public EnablePage enablePage(){
-//        if(enablePage==null){
-//            enablePage = new EnablePage();
-//        }return enablePage;
-//    }
     protected HomePage homePage;
     protected ShopPage shopPage;
     protected CheckOutPage checkOutPage;
+    protected  DistributorshipPage distributorshipPage;
 
 
 
@@ -36,6 +33,13 @@ public class AllPages {
             checkOutPage = new CheckOutPage();
         }
         return checkOutPage;
+    }
+
+    public DistributorshipPage distributorshipPage(){
+        if (distributorshipPage == null ){
+            distributorshipPage = new DistributorshipPage();
+        }
+        return distributorshipPage;
     }
 
 
