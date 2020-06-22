@@ -10,7 +10,15 @@ public class CheckOutPage {
         PageFactory.initElements(Driver.getDriver(), this);
     }
     @FindBy(id = "billing_first_name")
-    public WebElement firstNameText;
+    public WebElement firstNameTextBox;
     @FindBy(linkText = "Click here to login")
     public WebElement loginText;
+    @FindBy (id = "username")
+    public WebElement userName;
+    @FindBy(id = "password")
+    public WebElement password;
+    @FindBy(name = "login")
+    public WebElement loginButton;
+    @FindBy(xpath = "//ul[@class='woocommerce-error']")
+    public WebElement errorMessage;
 }
