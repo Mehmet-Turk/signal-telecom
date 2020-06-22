@@ -15,5 +15,7 @@ public class LoginFunctionality extends TestBase {
         allPages.checkOutPage().loginText.click();
         System.out.println("Mehmet");
         System.out.println("II Mehmet");
+        System.out.println("I.Zafer");
+
     }
 }

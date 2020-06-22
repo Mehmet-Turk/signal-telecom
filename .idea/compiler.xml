@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="signal_telecom" />
+        <module name="signal-telecom" />
       </profile>
     </annotationProcessing>
   </component>
