@@ -20,6 +20,5 @@ public class LoginFunctionality extends TestBase {
         Assert.assertTrue(allPages.checkOutPage().errorMessage.getText().contains("ERROR"));
 
 
-
     }
 }
