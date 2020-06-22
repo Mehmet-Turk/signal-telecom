@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bb083d9-1163-41e5-aa86-fec04ee03a44" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/DistributorshipPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/US_578_Distributorship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/DistributorshipPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/US_578_Distributorship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/CheckOutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/CheckOutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/LoginFunctionality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/LoginFunctionality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Utilities/AllPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Utilities/AllPages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/CheckOutPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/CheckOutPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/LoginFunctionality.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/LoginFunctionality.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Utilities/AllPages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Utilities/AllPages.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,5 +113,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592768842716" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1592859871339">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592859871339" />
   </component>
 </project>
