@@ -7,4 +7,7 @@ public class ContactPage {
     public ContactPage(){ PageFactory.initElements(Driver.getDriver(),this); }
     @FindBy (xpath = "//h3[.='sales@signal-telecom.com']")
     public WebElement emailText;
+    @FindBy (xpath = "//h3[.='+1-610-863-1530']")
+    public WebElement phoneNumberText;
+
 }

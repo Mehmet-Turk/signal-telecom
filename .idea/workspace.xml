@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bb083d9-1163-41e5-aa86-fec04ee03a44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/ContactInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/ContactPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/ContactPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/ContactInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/ContactInformation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -44,7 +48,25 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="TestNG.US_578_Distributorship.oneOfThem">
+  <component name="RunManager" selected="TestNG.ContactInformation.contactInformationTest">
+    <configuration name="ContactInformation.contactInformationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="signal-telecom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.signalTelecom.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.signalTelecom.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.ContactInformation" />
+      <option name="METHOD_NAME" value="contactInformationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginFunctionality.loginNegativeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="signal_telecom" />
       <extension name="coverage">
@@ -119,10 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ContactInformation.contactInformationTest" />
         <item itemvalue="TestNG.US_578_Distributorship.oneOfThem" />
         <item itemvalue="TestNG.US_578_Distributorship.numberOfDistributorship" />
-        <item itemvalue="TestNG.LoginFunctionality.loginNegativeTest" />
         <item itemvalue="TestNG.LoginFunctionality.loginPositiveTest" />
+        <item itemvalue="TestNG.LoginFunctionality.loginNegativeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -139,15 +162,28 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1592769334828">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592769334828" />
-    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1592870100130">
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1592871420680">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1592870100130" />
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1592871420680" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592853962631">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -164,9 +200,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592853962631" />
+    <state x="18" y="55" width="1219" height="618" key="MergeDialog" timestamp="1592871473868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="18" y="55" width="1219" height="618" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1592871473868" />
+    <state x="395" y="81" key="MultipleFileMergeDialog" timestamp="1592871478673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="81" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1592871478673" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1592768842716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592768842716" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1592871833603">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592871833603" />
+    <state x="464" y="80" key="git4idea.branch.GitSmartOperationDialog" timestamp="1592871462697">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="464" y="80" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1592871462697" />
   </component>
 </project>
