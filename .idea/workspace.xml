@@ -17,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -41,7 +46,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="TestNG.US_578_Distributorship.oneOfThem">
+  <component name="RunManager" selected="TestNG.LoginFunctionality.loginNegativeTest">
     <configuration name="LoginFunctionality.loginNegativeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="signal_telecom" />
       <extension name="coverage">
@@ -137,10 +142,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1592769334828">
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1592899067527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592769334828" />
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592899067527" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592858105203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -161,5 +166,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592768842716" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1592942310194">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592942310194" />
   </component>
 </project>
