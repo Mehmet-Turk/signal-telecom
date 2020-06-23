@@ -16,5 +16,6 @@ public class US_578_Distributorship extends TestBase {
     public  void oneOfThem(){
         allPages.homePage().distributorship.click();
         Assert.assertTrue(allPages.distributorshipPage().distributorshipList.stream().anyMatch(t->t.getText().contains("Blackmagic Design")));
+        System.out.println("u[ea");
     }
 }

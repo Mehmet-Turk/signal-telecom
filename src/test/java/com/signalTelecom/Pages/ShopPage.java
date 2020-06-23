@@ -15,4 +15,8 @@ public class ShopPage {
     public WebElement addToCart;
     @FindBy(xpath = "//a[@class='button checkout wc-forward']")
     public WebElement checkOut;
+    @FindBy(xpath = "(//a[@class='button wc-forward'])[1]")
+    public WebElement ViewCart;
+
+
 }
