@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bb083d9-1163-41e5-aa86-fec04ee03a44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/DistributorshipPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/US_578_Distributorship.java" afterDir="false" />
-
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/ContactPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/ContactInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/CheckOutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/CheckOutPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/LoginFunctionality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/LoginFunctionality.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Utilities/AllPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Utilities/AllPages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/CheckOutPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/CheckOutPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/LoginFunctionality.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/LoginFunctionality.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Utilities/AllPages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Utilities/AllPages.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ddvgUL2Z7IIYu426Dui2OKmWly" />
@@ -45,7 +44,25 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="TestNG.US_578_Distributorship.oneOfThem">
+  <component name="RunManager" selected="TestNG.ContactInformation.contactInformationTest">
+    <configuration name="ContactInformation.contactInformationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="signal-telecom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.signalTelecom.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.signalTelecom.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.ContactInformation" />
+      <option name="METHOD_NAME" value="contactInformationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginFunctionality.loginNegativeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="signal_telecom" />
       <extension name="coverage">
@@ -120,10 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ContactInformation.contactInformationTest" />
         <item itemvalue="TestNG.US_578_Distributorship.oneOfThem" />
         <item itemvalue="TestNG.US_578_Distributorship.numberOfDistributorship" />
-        <item itemvalue="TestNG.LoginFunctionality.loginNegativeTest" />
         <item itemvalue="TestNG.LoginFunctionality.loginPositiveTest" />
+        <item itemvalue="TestNG.LoginFunctionality.loginNegativeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +163,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592769334828" />
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1592907236183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1592907236183" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592853962631">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
