@@ -1,9 +1,6 @@
 package com.signalTelecom.Utilities;
 
-import com.signalTelecom.Pages.CheckOutPage;
-import com.signalTelecom.Pages.DistributorshipPage;
-import com.signalTelecom.Pages.HomePage;
-import com.signalTelecom.Pages.ShopPage;
+import com.signalTelecom.Pages.*;
 
 public class AllPages {
 
@@ -11,9 +8,15 @@ public class AllPages {
     protected ShopPage shopPage;
     protected CheckOutPage checkOutPage;
     protected  DistributorshipPage distributorshipPage;
+    protected CartPage cartPage;
 
 
-
+   public CartPage cartPage(){
+       if(cartPage == null){
+           cartPage = new CartPage();
+       }
+       return  cartPage;
+   }
     public HomePage homePage(){
         if (homePage == null){
             homePage = new HomePage();
