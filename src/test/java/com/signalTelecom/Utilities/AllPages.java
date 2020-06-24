@@ -9,6 +9,7 @@ public class AllPages {
     protected CheckOutPage checkOutPage;
     protected  DistributorshipPage distributorshipPage;
     protected CartPage cartPage;
+    protected ContactPage contactPage;
 
 
    public CartPage cartPage(){
@@ -44,6 +45,15 @@ public class AllPages {
         }
         return distributorshipPage;
     }
+
+
+    public ContactPage contactPage(){
+        if (contactPage == null){
+            contactPage = new ContactPage();
+        }
+        return contactPage;
+    }
+
 
 
 

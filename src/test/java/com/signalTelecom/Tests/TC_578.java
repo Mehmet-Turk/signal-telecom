@@ -5,7 +5,7 @@ import com.signalTelecom.Utilities.TestBase;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class US_578_Distributorship extends TestBase {
+public class TC_578 extends TestBase {
     AllPages allPages = new AllPages();
     @Test
     public void numberOfDistributorship(){
@@ -16,6 +16,5 @@ public class US_578_Distributorship extends TestBase {
     public  void oneOfThem(){
         allPages.homePage().distributorship.click();
         Assert.assertTrue(allPages.distributorshipPage().distributorshipList.stream().anyMatch(t->t.getText().contains("Blackmagic Design")));
-        System.out.println("u[ea");
     }
 }
