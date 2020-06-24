@@ -5,7 +5,7 @@ import com.signalTelecom.Utilities.TestBase;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class LoginFunctionality extends TestBase {
+public class TC_579 extends TestBase {
     AllPages allPages = new AllPages();
     @Test
     public void loginNegativeTest(){
