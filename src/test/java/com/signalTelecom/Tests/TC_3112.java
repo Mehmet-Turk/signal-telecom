@@ -15,6 +15,8 @@ public class TC_3112 extends TestBase {
         allPages.shopPage().ViewCart.click();
         allPages.cartPage().removeButton.click();
         // Thread.sleep(3000);
+        //String verify = allPages.cartPage().removeVerify.getText();
+        //Assert.assertEquals(verify.contains());
         Assert.assertTrue(allPages.cartPage().removeVerify.isDisplayed());
 
         System.out.println(allPages.cartPage().removeVerify.getText());

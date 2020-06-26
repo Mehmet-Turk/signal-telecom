@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0bb083d9-1163-41e5-aa86-fec04ee03a44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_3121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_3122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_3021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_3022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_3031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_3032.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_11_22_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_11_22_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_11_25_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_11_25_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_12_00_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_12_00_AM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_12_12_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_12_12_AM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_6_25_2020_2_37_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_6_25_2020_2_37_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_6_25_2020_2_37_PM__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_6_25_2020_2_37_PM__Default_Changelist_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/CartPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_3101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_3111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_3102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_3112.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/CartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/CartPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/TC_3101.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/TC_3102.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/TC_432.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/TC_432.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/TC_444.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/TC_444.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/ShopPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/ShopPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/ShopPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/ShopPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/TC_3112.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/TC_3112.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Utilities/TestBase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +59,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ddvgUL2Z7IIYu426Dui2OKmWly" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,8 +80,8 @@
       <recent name="com.signalTelecom.Tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TC_3122.totalprice">
-    <configuration name="TC_3112.removeProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TC_3032.pdfTest">
+    <configuration name="TC_3022" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="signal-telecom" />
       <extension name="coverage">
         <pattern>
@@ -67,16 +90,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.signalTelecom.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_3112" />
-      <option name="METHOD_NAME" value="removeProduct" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_3022" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_3121.decreaseProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TC_3022.pdfTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="signal-telecom" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +107,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.signalTelecom.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_3121" />
-      <option name="METHOD_NAME" value="decreaseProduct" />
+      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_3022" />
+      <option name="METHOD_NAME" value="pdfTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -94,7 +116,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_3121.emptyProduct" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TC_3031" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="signal-telecom" />
       <extension name="coverage">
         <pattern>
@@ -103,16 +125,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.signalTelecom.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_3121" />
-      <option name="METHOD_NAME" value="emptyProduct" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_3031" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_3122.totalprice" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TC_3031.pdfTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="signal-telecom" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +142,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.signalTelecom.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_3122" />
-      <option name="METHOD_NAME" value="totalprice" />
+      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_3031" />
+      <option name="METHOD_NAME" value="pdfTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -130,8 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_444.FillOutForm" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="signal_telecom" />
+    <configuration name="TC_3032.pdfTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="signal-telecom" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.signalTelecom.Tests.*" />
@@ -139,8 +160,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.signalTelecom.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_444" />
-      <option name="METHOD_NAME" value="FillOutForm" />
+      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_3032" />
+      <option name="METHOD_NAME" value="pdfTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -150,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TC_3122.totalprice" />
-        <item itemvalue="TestNG.TC_3112.removeProduct" />
-        <item itemvalue="TestNG.TC_3121.emptyProduct" />
-        <item itemvalue="TestNG.TC_3121.decreaseProduct" />
-        <item itemvalue="TestNG.TC_444.FillOutForm" />
+        <item itemvalue="TestNG.TC_3032.pdfTest" />
+        <item itemvalue="TestNG.TC_3031.pdfTest" />
+        <item itemvalue="TestNG.TC_3031" />
+        <item itemvalue="TestNG.TC_3022" />
+        <item itemvalue="TestNG.TC_3022.pdfTest" />
       </list>
     </recent_temporary>
   </component>
@@ -171,31 +192,43 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1592769334828">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2260" y="178" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1593122198360">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592769334828" />
+    <state x="2260" y="178" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1593122198360" />
+    <state x="1772" y="92" width="1736" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593118011665">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1772" y="92" width="1736" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1593118011665" />
     <state x="466" y="258" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593085323818">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="466" y="258" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1593085323818" />
-    <state width="1323" height="222" key="GridCell.Tab.0.bottom" timestamp="1593089239885">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1876" height="403" key="GridCell.Tab.0.bottom" timestamp="1593122768878">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593089239885" />
-    <state width="1323" height="222" key="GridCell.Tab.0.center" timestamp="1593089239885">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593090018047" />
+    <state width="1876" height="403" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1593122768878" />
+    <state width="1876" height="403" key="GridCell.Tab.0.center" timestamp="1593122768877">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593089239885" />
-    <state width="1323" height="222" key="GridCell.Tab.0.left" timestamp="1593089239885">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593090018047" />
+    <state width="1876" height="403" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1593122768877" />
+    <state width="1876" height="403" key="GridCell.Tab.0.left" timestamp="1593122768877">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593089239885" />
-    <state width="1323" height="222" key="GridCell.Tab.0.right" timestamp="1593089239885">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593090018047" />
+    <state width="1876" height="403" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1593122768877" />
+    <state width="1876" height="403" key="GridCell.Tab.0.right" timestamp="1593122768878">
+      <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593089239885" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593090018047" />
+    <state width="1876" height="403" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1593122768878" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1592768842716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
