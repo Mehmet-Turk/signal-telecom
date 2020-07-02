@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite2" verbose="1" >
+    <test name="Login Test Suite" >
+        <classes>
+            <class name="com.signalTelecom.Tests.TC_444" />
+           <!-- <class name="com.signalTelecom.smoketest.NegativeTest" />-->
+           <!--<class name="com.signalTelecom.smoketest.PositiveTest"/>-->
+            <!--<class name="com.signalTelecom.pageobjecttests.LoginTest"/>-->
+            <class name="com.signalTelecom.Tests.TC_3121"/>
+        </classes>
+    </test>
+</suite>

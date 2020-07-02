@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class TC_432 extends TestBase {
     AllPages allPages = new AllPages();
-    @Test
+    @Test(groups = "regression1")
     public void contactInformationTest(){
         allPages.homePage().contactText.click();
         String ActualEmailAddress=allPages.contactPage().emailText.getText();

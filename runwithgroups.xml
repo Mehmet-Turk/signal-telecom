@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Regression Suite 1" verbose="1" >
+    <!--    running certain test groups-->
+    <test name="Regression Group 1">
+        <groups>
+            <run>
+                <!--                include: please run only @Test(groups="regression1")-->
+                <!--                exclude: run all but regression1-->
+                <include name="regression1"></include>
+            </run>
+        </groups>
+        <!--        go find test cases with regression1 tag in NegativeTest class-->
+        <packages>
+            <package name="com.signalTelecom.Tests"></package>
+        </packages>
+    </test>
+</suite>

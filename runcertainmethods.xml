@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite 3">
+    <test name="Test Suite 3">
+        <classes>
+            <class name="com.signalTelecom.Tests.TC_3121">
+                <methods>
+                    <!--Command + / => I want to run only invalidID test-->
+                    <!--                    exclude means run all but this method-->
+                    <!--                    include means run ONLY that specific method-->
+                    <include name="invalidID"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Test Suite 4">
+        <classes>
+            <class name="com.signalTelecom.Tests.TC_3122">
+                <methods>
+                    <!--Command + / => I want to run only invalidID test-->
+                    <!--                    exclude means run all but this method-->
+                    <!--                    include means run ONLY that specific method-->
+                    <exclude name="explicitWait"></exclude>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

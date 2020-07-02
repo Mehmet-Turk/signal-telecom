@@ -20,22 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bb083d9-1163-41e5-aa86-fec04ee03a44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_3021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_3022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_3031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_3032.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_11_22_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_11_22_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_11_25_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_11_25_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_12_00_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_12_00_AM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_12_12_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_6_23_2020_12_12_AM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_6_25_2020_2_37_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_6_25_2020_2_37_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_6_25_2020_2_37_PM__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_6_25_2020_2_37_PM__Default_Changelist_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel_test01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel_test02.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel_test03.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel_test04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regressionsuite01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runcertainclasses.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runcertainmethods.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runwithgroups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smoketest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_25_2020_10_09_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_25_2020_10_09_PM__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/ShopPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Pages/ShopPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Utilities/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/ShopPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Pages/ShopPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/TC_3112.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Tests/TC_3112.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/signalTelecom/Utilities/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_432.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_432.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_433.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_433.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_444.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/signalTelecom/Tests/TC_444.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +65,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -80,89 +79,51 @@
       <recent name="com.signalTelecom.Tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TC_3032.pdfTest">
-    <configuration name="TC_3022" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/user/IdealProjectsFromGithub/signal-telecom/runwithgroups.xml">
+    <configuration name="C:/Users/user/IdealProjectsFromGithub/signal-telecom/parallel_test03.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="signal-telecom" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.signalTelecom.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.signalTelecom.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_3022" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/parallel_test03.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_3022.pdfTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/user/IdealProjectsFromGithub/signal-telecom/regressionsuite01.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="signal-telecom" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.signalTelecom.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.signalTelecom.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_3022" />
-      <option name="METHOD_NAME" value="pdfTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/regressionsuite01.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_3031" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/user/IdealProjectsFromGithub/signal-telecom/runcertainclasses.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="signal-telecom" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.signalTelecom.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.signalTelecom.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_3031" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/runcertainclasses.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_3031.pdfTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/user/IdealProjectsFromGithub/signal-telecom/runcertainmethods.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="signal-telecom" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.signalTelecom.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.signalTelecom.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_3031" />
-      <option name="METHOD_NAME" value="pdfTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/runcertainmethods.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_3032.pdfTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/user/IdealProjectsFromGithub/signal-telecom/runwithgroups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="signal-telecom" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.signalTelecom.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.signalTelecom.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.signalTelecom.Tests.TC_3032" />
-      <option name="METHOD_NAME" value="pdfTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/runwithgroups.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -171,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TC_3032.pdfTest" />
-        <item itemvalue="TestNG.TC_3031.pdfTest" />
-        <item itemvalue="TestNG.TC_3031" />
-        <item itemvalue="TestNG.TC_3022" />
-        <item itemvalue="TestNG.TC_3022.pdfTest" />
+        <item itemvalue="TestNG.C:/Users/user/IdealProjectsFromGithub/signal-telecom/runwithgroups.xml" />
+        <item itemvalue="TestNG.C:/Users/user/IdealProjectsFromGithub/signal-telecom/runcertainmethods.xml" />
+        <item itemvalue="TestNG.C:/Users/user/IdealProjectsFromGithub/signal-telecom/runcertainclasses.xml" />
+        <item itemvalue="TestNG.C:/Users/user/IdealProjectsFromGithub/signal-telecom/regressionsuite01.xml" />
+        <item itemvalue="TestNG.C:/Users/user/IdealProjectsFromGithub/signal-telecom/parallel_test03.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -209,26 +170,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="466" y="258" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1593085323818" />
-    <state width="1876" height="403" key="GridCell.Tab.0.bottom" timestamp="1593122768878">
-      <screen x="1680" y="0" width="1920" height="1080" />
+    <state width="1323" height="104" key="GridCell.Tab.0.bottom" timestamp="1593719451128">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593090018047" />
+    <state width="1323" height="104" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593719451128" />
     <state width="1876" height="403" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1593122768878" />
-    <state width="1876" height="403" key="GridCell.Tab.0.center" timestamp="1593122768877">
-      <screen x="1680" y="0" width="1920" height="1080" />
+    <state width="1323" height="104" key="GridCell.Tab.0.center" timestamp="1593719451128">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593090018047" />
+    <state width="1323" height="104" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593719451128" />
     <state width="1876" height="403" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1593122768877" />
-    <state width="1876" height="403" key="GridCell.Tab.0.left" timestamp="1593122768877">
-      <screen x="1680" y="0" width="1920" height="1080" />
+    <state width="1323" height="104" key="GridCell.Tab.0.left" timestamp="1593719451127">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593090018047" />
+    <state width="1323" height="104" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593719451127" />
     <state width="1876" height="403" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1593122768877" />
-    <state width="1876" height="403" key="GridCell.Tab.0.right" timestamp="1593122768878">
-      <screen x="1680" y="0" width="1920" height="1080" />
+    <state width="1323" height="104" key="GridCell.Tab.0.right" timestamp="1593719451128">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593090018047" />
+    <state width="1323" height="104" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593719451128" />
     <state width="1876" height="403" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1920.1080@1680.0.1920.1080" timestamp="1593122768878" />
+    <state width="1323" height="52" key="GridCell.Tab.1.bottom" timestamp="1593691098316">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="52" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593691098316" />
+    <state width="1323" height="52" key="GridCell.Tab.1.center" timestamp="1593691098316">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="52" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593691098316" />
+    <state width="1323" height="52" key="GridCell.Tab.1.left" timestamp="1593691098316">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="52" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593691098316" />
+    <state width="1323" height="52" key="GridCell.Tab.1.right" timestamp="1593691098316">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="52" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593691098316" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1592768842716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -241,5 +218,8 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592984697628" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/signal_telecom$C__Users_user_IdealProjectsFromGithub_signal_telecom_runwithgroups_xml.ic" NAME="$PROJECT_DIR$/runwithgroups.xml Coverage Results" MODIFIED="1593691098217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
