@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class TC_444 extends TestBase {
     AllPages allPages = new AllPages();
-    @Test
+    @Test(groups = "regression1")
     public void FillOutForm(){
         allPages.homePage().contactText.click();
         allPages.contactPage().yourEmailCheckbox.sendKeys("123@gmail");

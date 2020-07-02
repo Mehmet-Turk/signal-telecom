@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite 1" verbose="2">
+    <test name="Test 1">
+        <packages>
+            <package name="com.signalTelecom.Tests"></package>
+            <!-- <package name="com.signalTelecom.smoketest"></package>-->
+
+        </packages>
+    </test>
+</suite>

@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite 1" parallel="instances" thread-count="1">
+    <test name="Test 1">
+        <classes>
+            <class name="com.signalTelecom.Tests.TC_432"/>
+            <class name="com.signalTelecom.Tests.TC_444"/>
+            <class name="com.signalTelecom.Tests.TC_578"/>
+            <class name="com.signalTelecom.Tests.TC_3021"/>
+            <class name="com.signalTelecom.Tests.TC_3031"/>
+            <class name="com.signalTelecom.Tests.TC_3111"/>
+            <class name="com.signalTelecom.Tests.TC_3121"/>
+        </classes>
+    </test>
+</suite>
